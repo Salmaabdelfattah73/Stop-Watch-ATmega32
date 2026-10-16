@@ -1,13 +1,10 @@
-<h1 align="center">Digital Stop Watch</h1>
-
-
-
-<p align="center">
+# Digital Stop Watch
 
 A six-digit stopwatch built on the ATmega32, using multiplexed common-anode 7-segment displays, Timer1 in CTC mode, and external interrupts for reset, pause, and resume.
 
-</p>
+![MCU](https://img.shields.io/badge/MCU-ATmega32-blue) ![Language](https://img.shields.io/badge/Language-Embedded%20C-green) ![Clock](https://img.shields.io/badge/Clock-1%20MHz-orange) ![Simulation](https://img.shields.io/badge/Simulation-Proteus-lightgrey)
 
+---
 
 
 <p align="center">
