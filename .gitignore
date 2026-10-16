@@ -1,0 +1,19 @@
+# Build output
+Debug/
+*.o
+*.elf
+*.hex
+*.map
+*.lss
+*.eep
+*.d
+
+# Eclipse workspace metadata
+.metadata/
+
+# Proteus temp files
+*.pdsbak
+*.workspace
+*.pdsprj.*
+Last Loaded*
+Backup Of*
